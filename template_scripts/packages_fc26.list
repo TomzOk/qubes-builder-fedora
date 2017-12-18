@@ -27,3 +27,8 @@ sudo
 xorg-x11-fonts-100dpi
 xorg-x11-fonts-Type1
 yum-utils
+
+# wallet
+electrum
+qrencode
+zbar
